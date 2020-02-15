@@ -1,0 +1,12 @@
+{
+  "development": {
+    "apiUrl": "https://masterjedai.herokuapp.com",
+    "contentApiKey": "7f6e22e9322d2d179297f2d953",
+    "version":"v2"
+  },
+  "production": {
+    "apiUrl": "https://masterjedai.herokuapp.com",
+    "contentApiKey": "7f6e22e9322d2d179297f2d953",
+    "version":"v2"
+  }
+}
